@@ -29,6 +29,11 @@ header {
   padding: 40px;
 }
 
+.centeral{
+
+ display: flexbox; flex-direction: row; justify-content: space-around;
+}
+
 .fa-stack[data-count]:after{
   position: absolute;
   right: 0%;
